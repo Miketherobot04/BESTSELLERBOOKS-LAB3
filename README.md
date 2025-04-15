@@ -30,7 +30,7 @@ I faced some issues with the version of Android Studio not working with the Code
 
 ## License
 
-    Copyright [2025] [Hunter Smith]
+    Copyright [2025] [Michael Oyetibo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
